@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Middle</string>
     <string name="title_activity_maps">Map</string>
+    <string name="hello">최가원바보</string>
 </resources>
